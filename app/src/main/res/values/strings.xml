@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Exercise4</string>
+    <string name="threads_activity">Threads activity</string>
+    <string name="asynctask_activity">AsyncTask activity</string>
+    <string name="create">Create</string>
+    <string name="cancel">Cancel</string>
+    <string name="start">Start</string>
+    <string name="done">Done!</string>
+    <string name="started">Started!</string>
+    <string name="created">Created!</string>
+    <string name="cancelled">Cancelled!</string>
+    <string name="current_index">currentNumber</string>
+</resources>
